@@ -1,0 +1,5 @@
+# Bureau Veritas Cybersecurity
+
+Bureau Veritas Cybersecurity is your expert partner in cybersecurity. We help organizations identify risks, strengthen defenses and comply with cybersecurity standards and regulations. Our services cover people, processes and technology, ranging from awareness training and social engineering to security advice, compliance and penetration testing.
+
+We operate across IT, OT and IoT environments, supporting both digital systems and connected products. With over 300 cybersecurity professionals worldwide, we combine deep technical expertise with a global presence. Bureau Veritas Cybersecurity is part of the Bureau Veritas Group, a global leader in testing, inspection and certification.
